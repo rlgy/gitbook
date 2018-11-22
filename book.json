@@ -1,0 +1,30 @@
+{
+    "title": "rlgyzhcn",
+    "description": "rlgyzhcn 的博客与笔记",
+    "author": "rlgyzhcn",
+    "plugins": [
+        "disqus",
+        "github",
+        "splitter",
+        "tbfed-pagefooter",
+        "toggle-chapters",
+        "copy-code-button"
+    ],
+    "pluginsConfig": {
+        "github": {
+            "url": "https://github.com/rlgy"
+        },
+        "tbfed-pagefooter": {
+            "modify_label": "该文件最后修订时间：",
+            "modify_format": "YYYY-MM-DD HH:mm:ss"
+        },
+        "disqus": {
+            "shortName": "rlgyzhcn"
+        }
+    },
+    "links": {
+        "sidebar": {
+            "DocBook": ""
+        }
+    }
+}
